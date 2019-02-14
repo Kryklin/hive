@@ -1,7 +1,7 @@
 <?php
 //Version 3.2
-$steamauth['apikey'] = "ADA389E45E4959C0C3A9DC3F44413A11"; // Your Steam WebAPI-Key found at https://steamcommunity.com/dev/apikey
-$steamauth['domainname'] = "https://www.evo-network.net/"; // The main URL of your website displayed in the login page
+$steamauth['apikey'] = ""; // Your Steam WebAPI-Key found at https://steamcommunity.com/dev/apikey
+$steamauth['domainname'] = ""; // The main URL of your website displayed in the login page
 $steamauth['logoutpage'] = "index.php"; // Page to redirect to after a successfull logout (from the directory the SteamAuth-folder is located in) - NO slash at the beginning!
 $steamauth['loginpage'] = "app.php"; // Page to redirect to after a successfull login (from the directory the SteamAuth-folder is located in) - NO slash at the beginning!
 
